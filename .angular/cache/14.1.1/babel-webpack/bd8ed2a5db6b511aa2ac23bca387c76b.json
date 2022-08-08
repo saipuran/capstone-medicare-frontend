@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  oidc: {\n    clientId: '0oapmjdu0NyzFSGrq5d6Aj',\n    issuer: 'https://dev-261897788.okta.com/oauth2/default',\n    redirectUri: 'http://localhost:4200/login/callback',\n    scopes: ['openid', 'profile', 'email']\n  }\n};","map":null,"metadata":{},"sourceType":"module"}
